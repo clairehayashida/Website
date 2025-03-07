@@ -1,1 +1,1 @@
-rnorm(100, mean = 5, sd = 2)
+x <- rnorm(100, mean = 5, sd = 2)
